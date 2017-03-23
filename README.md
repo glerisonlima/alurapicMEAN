@@ -1,0 +1,2 @@
+# alurapicMEAN
+projeto alurapic MEAN
